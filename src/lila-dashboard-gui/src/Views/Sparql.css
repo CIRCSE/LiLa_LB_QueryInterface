@@ -1,0 +1,18 @@
+.iframeLayout{
+    position: absolute;
+    bottom: 0px;
+    top: 0px;
+    height: 100%;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+}
+
+.iframeContainer{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 36px;
+    bottom: 0px;
+}

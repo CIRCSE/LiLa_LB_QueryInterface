@@ -1,0 +1,12 @@
+
+@media screen and (max-width: 600px) {
+    .cellBehaveHidable {
+        display: none;
+    }
+    .ReactVirtualized__Table__headerColumn{
+        display: none;
+    }
+    .ReactVirtualized__Table__rowColumn{
+        display: none;
+    }
+}
